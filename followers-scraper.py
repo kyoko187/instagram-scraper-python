@@ -13,12 +13,12 @@ import os
 import datetime
 from webdriver_manager.chrome import ChromeDriverManager
 
-count = 100  # number of profiles you want to get
+count = 1000  # number of profiles you want to get
 account = "therock"  # account from
 page = "followers"  # from following or followers
 
-yourusername = "*********" #your IG username
-yourpassword = "*********"  #your IG password
+yourusername = "hdfbreee" #your IG username
+yourpassword = "sammydugeile"  #your IG password
 
 
 #for proxy i recommend 4G mobile proxy: http://www.virtnumber.com/mobile-proxy-4g.php
